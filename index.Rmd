@@ -1,15 +1,16 @@
 ---
-title: "p8105_hw4_sc5352"
+title: "ChrissyChen Website"
 output: 
   html_document:
     toc: true
     toc_float: true
+    theme: cerulean
 
 ---
 
 # Problem 1
 
-Here is my resume link [resume](resume.html).  
+Here is my resume link [resume](Resume.html).  
 
 # Problem 2
 
