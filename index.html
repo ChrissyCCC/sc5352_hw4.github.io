@@ -11,12 +11,12 @@
 
 
 
-<title>Resume</title>
+<title>p8105_hw4_sc5352</title>
 
 <script src="site_libs/header-attrs-2.24/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -29,6 +29,9 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -221,6 +224,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -228,6 +294,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -274,82 +350,24 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Resume</h1>
+<h1 class="title toc-ignore">p8105_hw4_sc5352</h1>
 
 </div>
 
 
-<div id="basic-information" class="section level1">
-<h1>BASIC INFORMATION</h1>
-<p>Email: <a href="mailto:sc5352@columbia.edu"
-class="email">sc5352@columbia.edu</a><br />
-Tel.:+1 (201)4969458<br />
-Add.: Fort Lee, NJ</p>
+<div id="problem-1" class="section level1">
+<h1>Problem 1</h1>
+<p>Here is my resume link <a href="resume.html">resume</a>.</p>
 </div>
-<div id="education" class="section level1">
-<h1>EDUCATION</h1>
-<p>Columbia University in the City of New York - Aug 2023 - May 2025 -
-Master of Science in Biostatistics - Public Health Data Science -
-Courses: Biostatistical Method, Principles of Epidemiology, Data Science
-University of Illinois at Urbana-Champaign<br />
-- Bachelor of Science in Qualitative and Quantitative Econometric<br />
-- Bachelor of Science in Industrial/Organizational Psychology - GPA:
-3.99/4.00 - Awards &amp; Honors: Dean’s List (all semesters) - Courses:
-Predictive Analysis, Real Analysis, Statistics and Probability, Intro
-Program Python for Data Science, Applied Machine Learning, Financial
-Econometrics</p>
-</div>
-<div id="business-and-data-analysis-experience" class="section level1">
-<h1>BUSINESS AND DATA ANALYSIS EXPERIENCE</h1>
-<p>FutureTech Capital Business Analyst - Conducted research on startups
-in specific industries (100+ hard tech companies: AI, electric vehicles,
-drones, etc.) for SPAC projects in the United States and arranged
-meetings with potential target companies - Collected suitable
-information on SPAC projects and produced investment memos, reports, and
-presentations to investors - Coordinated with investors for clients
-(e.g., Middle East investors) - Collected business data about the target
-company, including technology, products, valuation, etc. - Analyzed and
-visualized industry and company data, including financial metrics,
-industry/company developments</p>
-<p>University of Illinois at Urbana-Champaign Teaching Assistant
-(Economics Statistics) - Reviewed materials with students during office
-hours, answered general questions, and provided assignments assistance -
-Assisted the professor to complete the teaching work - Provided regular,
-accurate, and timely feedback on student performance</p>
-<p>Ruansu Technology Company<br />
-Data Anlalyst - Applied SQL and Python to collect and process data for
-clients, including hospitals, doctors, drugs, etc. - Conducted research
-on the latest medical systems in China and developed reports - Assisted
-in database maintenance and daily updates</p>
-</div>
-<div id="financial-experience" class="section level1">
-<h1>FINANCIAL EXPERIENCE</h1>
-<p>Shanghai Hello Puhui Technology Co., Ltd<br />
-Product Internationalization &amp; Industry Fund CVC Intern<br />
-Industrial Fund Private Equity Investment Projects: - Conducted research
-on potential investment opportunities in startups or emerging companies
-within the firm’s target industries, including hard and core technology,
-new material, GNSS, etc. - Assisted in due diligence activities,
-reviewing business plans, and financial statements, and conducting
-background checks on founders - Produced investment memos, reports, and
-presentations to investors,summarising research findings and investment
-recommendations - Assisted in developing post-investment empowerment
-plans to support the strategic optimization and business innovation of
-the investee</p>
-<p>Product Internationalisation: - Conduct research on 10+ international
-pet and stray animal markets to understand local market demands,
-culture, legal regulations, etc. - Revised Internalization Strategies
-Post-Investigations, shifting from developed nations to tourist
-destinations, tailoring products and services to suit target markets -
-Establish contacts with local partners to gain local market support and
-insights, negotiating collaborations, project landings, etc.</p>
-<p>Business Sale: - Identified potential business partners and conducted
-due diligence - Learned and participated in the development of
-cooperation plans and finance acquisitions</p>
+<div id="problem-2" class="section level1">
+<h1>Problem 2</h1>
+<p>This is a <a href="flexdashboard.html">flexdashboard</a> link.</p>
 </div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -382,6 +400,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

@@ -7,9 +7,9 @@ output:
 ---
 
 # BASIC INFORMATION
-  Email: sc5352@columbia.edu 
-  Tel.:+1 (201)4969458
-  Add.: Fort Lee, NJ
+  Email: sc5352@columbia.edu  
+  Tel.:+1 (201)4969458  
+  Add.: Fort Lee, NJ  
   
 # EDUCATION
 Columbia University in the City of New York
