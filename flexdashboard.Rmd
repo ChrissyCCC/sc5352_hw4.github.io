@@ -32,7 +32,7 @@ instacart |>
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### boxplot shows the hourd the order has been placed in a day, seperating by product department
+### Boxplot shows the hourd the order has been placed in a day, seperating by product department
 
 ```{r}
 instacart_1 = 
@@ -44,15 +44,18 @@ instacart_1 =
 instacart_1
 ```
 
-### 
+### Scatter plot shows total reorder numbers for different product departments.
 
 ```{r}
 instacart_2 = 
   instacart |>
   group_by(department) |>
-  mutate(reorder = sum(reordered)) |>
+  mutate(reorder = sum(reordered),
+         reorder = as.numeric(reorder)) |>
+  distinct(department, reorder) |>
   plot_ly(
-    y = ~reorder, x = ~department, type = "funnel",
+    x = ~department, y = ~reorder, 
+    type = 'scatter', mode = 'markers', size = ~reorder,
     color = ~department)
 instacart_2
 ```
