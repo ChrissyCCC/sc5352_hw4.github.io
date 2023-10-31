@@ -6,57 +6,59 @@ output:
   toc_float: true
 ---
 
-# BASIC INFORMATION
+#### BASIC INFORMATION
   Email: sc5352@columbia.edu  
   Tel.:+1 (201)4969458  
   Add.: Fort Lee, NJ  
   
-# EDUCATION
-Columbia University in the City of New York
-  - Aug 2023 - May 2025
-  - Master of Science in Biostatistics - Public Health Data Science
-  - Courses: Biostatistical Method, Principles of Epidemiology, Data Science
-University of Illinois at Urbana-Champaign 							        
-  - Bachelor of Science in Qualitative and Quantitative Econometric   				        
-  - Bachelor of Science in Industrial/Organizational Psychology
-  - GPA: 3.99/4.00
-  - Awards & Honors: Dean's List (all semesters)
-  - Courses: Predictive Analysis, Real Analysis, Statistics and Probability, Intro        Program Python for Data Science, Applied Machine Learning, Financial Econometrics
+#### EDUCATION
+##### Columbia University in the City of New York <br> 
+  - Aug 2023 - May 2025 <br>
+  - Master of Science in Biostatistics - Public Health Data Science <br>
+  - Courses: Biostatistical Method, Principles of Epidemiology, Data Science <br>
   
-# BUSINESS AND DATA ANALYSIS EXPERIENCE
-FutureTech Capital
-Business Analyst
-  - Conducted research on startups in specific industries (100+ hard tech companies: AI, electric vehicles, drones, etc.) for SPAC projects in the United States and arranged meetings with potential target companies
-  - Collected suitable information on SPAC projects and produced investment memos, reports, and presentations to investors
-  - Coordinated with investors for clients (e.g., Middle East investors)
-  - Collected business data about the target company, including technology, products, valuation, etc. 
-  - Analyzed and visualized industry and company data, including financial metrics, industry/company developments
-
-University of Illinois at Urbana-Champaign
-Teaching Assistant (Economics Statistics)		             	                           - Reviewed materials with students during office hours, answered general questions, and provided assignments assistance
-  - Assisted the professor to complete the teaching work
-  - Provided regular, accurate, and timely feedback on student performance
-
-Ruansu Technology Company	
-Data Anlalyst
-  - Applied SQL and Python to collect and process data for clients, including hospitals, doctors, drugs, etc.
-  - Conducted research on the latest medical systems in China and developed reports
-  - Assisted in database maintenance and daily updates
+##### University of Illinois at Urbana-Champaign <br>
+  - Bachelor of Science in Qualitative and Quantitative Econometric <br>
+  - Bachelor of Science in Industrial/Organizational Psychology <br>
+  - GPA: 3.99/4.00 <br>
+  - Awards & Honors: Dean's List (all semesters) <br>
+  - Courses: Predictive Analysis, Real Analysis, Statistics and Probability, Intro Program Python for Data Science, Applied Machine Learning, Financial Econometrics <br>
   
-# FINANCIAL EXPERIENCE
-Shanghai Hello Puhui Technology Co., Ltd							     
-Product Internationalization & Industry Fund CVC Intern                                  
-Industrial Fund Private Equity Investment Projects:
-  - Conducted research on potential investment opportunities in startups or emerging companies within the firm's target industries, including hard and core technology,  new material, GNSS, etc.
-  - Assisted in due diligence activities, reviewing business plans, and financial statements, and conducting background checks on founders
-  - Produced investment memos, reports, and presentations to investors,summarising research findings and investment recommendations
-  - Assisted in developing post-investment empowerment plans to support the strategic optimization and business innovation of the investee
-  
-Product Internationalisation:
-  - Conduct research on 10+ international pet and stray animal markets to understand local market demands, culture, legal regulations, etc.
-  - Revised Internalization Strategies Post-Investigations, shifting from developed nations to tourist destinations, tailoring products and services to suit target markets
-  - Establish contacts with local partners to gain local market support and insights, negotiating collaborations, project landings, etc. 
+#### BUSINESS AND DATA ANALYSIS EXPERIENCE
+##### FutureTech Capital
+###### Business Analyst
+  - Conducted research on startups in specific industries (100+ hard tech companies: AI, electric vehicles, drones, etc.) for SPAC projects in the United States and arranged meetings with potential target companies <br>
+  - Collected suitable information on SPAC projects and produced investment memos, reports, and presentations to investors <br>
+  - Coordinated with investors for clients (e.g., Middle East investors) <br>
+  - Collected business data about the target company, including technology, products, valuation, etc. <br>
+  - Analyzed and visualized industry and company data, including financial metrics, industry/company developments <br>
 
-Business Sale:
-  - Identified potential business partners and conducted due diligence
-  - Learned and participated in the development of cooperation plans and finance acquisitions
+##### University of Illinois at Urbana-Champaign
+###### Teaching Assistant (Economics Statistics)
+  - Reviewed materials with students during office hours, answered general questions, and provided assignments assistance <br>
+  - Assisted the professor to complete the teaching work <br>
+  - Provided regular, accurate, and timely feedback on student performance <br>
+
+##### Ruansu Technology Company	
+###### Data Anlalyst
+  - Applied SQL and Python to collect and process data for clients, including hospitals, doctors, drugs, etc.<br>
+  - Conducted research on the latest medical systems in China and developed reports <br>
+  - Assisted in database maintenance and daily updates<br>
+  
+#### FINANCIAL EXPERIENCE
+##### Shanghai Hello Puhui Technology Co., Ltd							     
+###### Product Internationalization & Industry Fund CVC Intern                      
+###### Industrial Fund Private Equity Investment Projects: <br>
+  - Conducted research on potential investment opportunities in startups or emerging companies within the firm's target industries, including hard and core technology,  new material, GNSS, etc.<br>
+  - Assisted in due diligence activities, reviewing business plans, and financial statements, and conducting background checks on founders<br>
+  - Produced investment memos, reports, and presentations to investors,summarising research findings and investment recommendations<br>
+  - Assisted in developing post-investment empowerment plans to support the strategic optimization and business innovation of the investee<br>
+  
+###### Product Internationalisation: <br>
+  - Conduct research on 10+ international pet and stray animal markets to understand local market demands, culture, legal regulations, etc.<br>
+  - Revised Internalization Strategies Post-Investigations, shifting from developed nations to tourist destinations, tailoring products and services to suit target markets <br>
+  - Establish contacts with local partners to gain local market support and insights, negotiating collaborations, project landings, etc. <br>
+
+###### Business Sale: <br>
+  - Identified potential business partners and conducted due diligence <br>
+  - Learned and participated in the development of cooperation plans and finance acquisitions <br>
